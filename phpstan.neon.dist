@@ -1,0 +1,9 @@
+parameters:
+    level: 7
+    paths:
+        - src
+        - config
+        - database
+        - routes
+        - workbench/app/Models/User.php
+    tmpDir: build/phpstan
